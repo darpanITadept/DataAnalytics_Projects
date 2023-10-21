@@ -14,9 +14,7 @@ You can access the Tableau visualization of this dataset by following this [Tabl
 
 Here are some images of the Tableau visualization dashboard:
 
-![Dashboard Image 1](<insert_image_1_link_here>)
-![Dashboard Image 2](<insert_image_2_link_here>)
-![Dashboard Image 3](<insert_image_3_link_here>)
+![Dashboard Image 1](</Users/darpanchoudhary128/Desktop/DataAnalytics_Projects/LondonBikes/Screenshot 2023-10-21 at 5.59.49 PM.png>)
 
 ## Project Readme
 
@@ -102,11 +100,6 @@ bikes.head()
 # Save the cleaned dataset to an Excel file
 bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
-
-### Tableau Visualization
-
-Explore the dataset through a Tableau visualization that provides insightful and interactive visualizations of the data. Follow the provided [Tableau Viz Link](<insert_link_here>) to access the visualization.
-
 
 
 Feel free to explore the dataset and the visualization. If you have any questions or need further assistance, please don't hesitate to reach out.
