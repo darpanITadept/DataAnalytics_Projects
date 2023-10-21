@@ -14,7 +14,7 @@ You can access the Tableau visualization of this dataset by following this [Tabl
 
 Here are some images of the Tableau visualization dashboard:
 
-![Dashboard Image 1](<img width="1353" alt="Screenshot 2023-10-21 at 5 59 49 PM" src="https://github.com/darpanITadept/DataAnalytics_Projects/assets/112990024/0b3d7f65-c8a1-4229-8bc4-6ba17fab04f0">)
+![Dashboard Image 1](<img width="1353" alt="Screenshot 2023-10-21 at 5 59 49 PM" src="https://github.com/darpanITadept/DataAnalytics_Projects/assets/112990024/396e2a0b-c829-410a-bf15-856631f021cc">)
 
 ## Project Readme
 
