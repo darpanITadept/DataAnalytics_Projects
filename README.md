@@ -9,13 +9,12 @@ You can access the Tableau visualization of this dataset by following this [Tabl
 - **Weather Impact**: Analyze how weather conditions affect bike rental counts with easy-to-read charts and graphs.
 
 - **Seasonal Variations**: Discover the impact of seasons on bike rentals, helping you understand the popularity of bike usage in different seasons.
-<img width="1353" alt="Screenshot 2023-10-21 at 5 59 49 PM" src="https://github.com/darpanITadept/DataAnalytics_Projects/assets/112990024/e8072c39-9a07-44c7-9e49-8ef045bf06ed">
 
 ### Dashboard Images
 
-Here are some images of the Tableau visualization dashboard:
+Here is the image of the Tableau visualization dashboard:
 
-![Dashboard Image 1](<img width="1353" alt="Screenshot 2023-10-21 at 5 59 49 PM" src="https://github.com/darpanITadept/DataAnalytics_Projects/assets/112990024/396e2a0b-c829-410a-bf15-856631f021cc">)
+<img width="1353" alt="Screenshot 2023-10-21 at 5 59 49 PM" src="https://github.com/darpanITadept/DataAnalytics_Projects/assets/112990024/e8072c39-9a07-44c7-9e49-8ef045bf06ed">
 
 ## Project Readme
 
